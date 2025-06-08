@@ -1,0 +1,12 @@
+.pidar {
+    width: 1400px;
+    height: 900px;
+}
+.minet:hover {
+    width: 300px;
+    height: 200px;
+    cursor: pointer;
+    color: white;
+    background-color: red;
+    
+}
